@@ -69,7 +69,7 @@ Endpoint REST via FastAPI, expondo o modelo fine-tunado:
 POST /extrair
 { "texto": "Amortecedor traseiro original Honda Civic 2010 a 2015" }
 
--> { "categoria": "amortecedor", "marca_veiculo": "Honda", "modelo_veiculo": "Civic", "ano_compativel": "2010-2015", "posicao": "traseira" }
+Expectativa de resposta -> { "categoria": "amortecedor", "marca_veiculo": "Honda", "modelo_veiculo": "Civic", "ano_compativel": "2010-2015", "posicao": "traseira" }
 ```
 
 ## Escopo e limitações conhecidas
