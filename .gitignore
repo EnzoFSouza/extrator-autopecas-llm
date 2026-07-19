@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Ambiente / segredos
+.env
+*.env
+
+# Modelo base baixado localmente (nunca deve ser commitado, somente o adaptador LoRA e pequeno)
+*.safetensors
+!lora_adapter/adapter_model.safetensors
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/

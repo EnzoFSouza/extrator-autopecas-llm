@@ -91,8 +91,8 @@ api/                codigo da API FastAPI
 data/               dataset bruto, rotulado, e splits de treino/teste
 labeling/           scripts de parsing e rotulagem via regras de dominio
 lora_adapter/       pesos do adaptador LoRA treinado
-notebooks/          notebooks do Colab com carregamento do modelo, fine-tuning, avaliacao e API
-resultado/          metricas do modelo baseline e do modelo finetunado
+notebook/          notebooks do Colab com carregamento do modelo, fine-tuning, avaliacao e API
+resultados/          metricas do modelo baseline e do modelo finetunado
 ```
 
 ## Stack
