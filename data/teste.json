@@ -1,0 +1,202 @@
+[
+  {
+    "texto": "Comando de ar digital New fiesta 2014/19 Produto original usado",
+    "extracao": {
+      "categoria": "comando de ar",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Fiesta",
+      "ano_compativel": "2014-2019",
+      "posicao": null
+    }
+  },
+  {
+    "texto": "Volante Esportivo Chevrolet Celta Corsa Classic Wind Prisma",
+    "extracao": {
+      "categoria": "volante",
+      "marca_veiculo": "Chevrolet",
+      "modelo_veiculo": "Celta",
+      "ano_compativel": null,
+      "posicao": null
+    }
+  },
+  {
+    "texto": "Alavanca Do Freio De Mao Da S10 2010 Até 2021",
+    "extracao": {
+      "categoria": "alavanca de freio",
+      "marca_veiculo": null,
+      "modelo_veiculo": "S10",
+      "ano_compativel": "2010-2021",
+      "posicao": null
+    }
+  },
+  {
+    "texto": "Par Amortecedor Dianteiro Com Kits Cofap Fox Polo Spacefox",
+    "extracao": {
+      "categoria": "amortecedor",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Fox",
+      "ano_compativel": null,
+      "posicao": "dianteira"
+    }
+  },
+  {
+    "texto": "Volante Nova Tracker Gm Logo Preto Corsa Classic 2005",
+    "extracao": {
+      "categoria": "volante",
+      "marca_veiculo": "Chevrolet",
+      "modelo_veiculo": "Tracker",
+      "ano_compativel": "2005",
+      "posicao": null
+    }
+  },
+  {
+    "texto": "Kit 4 Amortecedor Golf Sportline 2008 2009 2010 Monreo Axios",
+    "extracao": {
+      "categoria": "amortecedor",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Golf",
+      "ano_compativel": "2008-2010",
+      "posicao": null
+    }
+  },
+  {
+    "texto": "Par Amortecedor Traseiro E Kits Gol G2 G3 G4 1995 2008 Cofap",
+    "extracao": {
+      "categoria": "amortecedor",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Gol",
+      "ano_compativel": "1995-2008",
+      "posicao": "traseira"
+    }
+  },
+  {
+    "texto": "02 Amortecedor Dianteira Nakata + Batente Fiesta 2002 Á 2014",
+    "extracao": {
+      "categoria": "amortecedor",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Fiesta",
+      "ano_compativel": "2002-2014",
+      "posicao": "dianteira"
+    }
+  },
+  {
+    "texto": "Par Amortecedores Traseiros Palio Siena 96 A 2012 Com Kit",
+    "extracao": {
+      "categoria": "amortecedor",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Palio",
+      "ano_compativel": "1996-2012",
+      "posicao": "traseira"
+    }
+  },
+  {
+    "texto": "Kit 4 Molas Esportivas Gol G2 G3 G4 Todos 1.0 1.6 1.8",
+    "extracao": {
+      "categoria": "mola",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Gol",
+      "ano_compativel": null,
+      "posicao": null
+    }
+  },
+  {
+    "texto": "Pastilha Freio Novo Onix 2020 2021 2022 Lt Ltz Plus Premier",
+    "extracao": {
+      "categoria": "pastilha de freio",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Onix",
+      "ano_compativel": "2020-2022",
+      "posicao": null
+    }
+  },
+  {
+    "texto": "04 Amortecedores Gol G2 G3 G4 Nakata Com Kit Batente E Coifa",
+    "extracao": {
+      "categoria": "amortecedor",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Gol",
+      "ano_compativel": null,
+      "posicao": null
+    }
+  },
+  {
+    "texto": "Lanterna Traseira L200 Triton 2017 2016 2017 18 19 20 A 2025",
+    "extracao": {
+      "categoria": "lanterna",
+      "marca_veiculo": null,
+      "modelo_veiculo": "L200",
+      "ano_compativel": "2016-2025",
+      "posicao": "traseira"
+    }
+  },
+  {
+    "texto": "Kit 6 Lâmpadas Halógena Farol Alto Baixo Lanterna H1 H7 T10",
+    "extracao": {
+      "categoria": "lanterna",
+      "marca_veiculo": null,
+      "modelo_veiculo": null,
+      "ano_compativel": null,
+      "posicao": null
+    }
+  },
+  {
+    "texto": "Par Lanterna Dianteira Seta Uno Fiorino 91 92 93 94 95 96 97",
+    "extracao": {
+      "categoria": "lanterna",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Uno",
+      "ano_compativel": "1991-1997",
+      "posicao": "dianteira"
+    }
+  },
+  {
+    "texto": "Par Lanterna Traseira Hilux 16 17 2018 2019 2020 21 22 23 24",
+    "extracao": {
+      "categoria": "lanterna",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Hilux",
+      "ano_compativel": "2016-2024",
+      "posicao": "traseira"
+    }
+  },
+  {
+    "texto": "Controle Ar Condicionado Cruze 2016 - 2019 Gm Original",
+    "extracao": {
+      "categoria": "comando de ar",
+      "marca_veiculo": "Chevrolet",
+      "modelo_veiculo": "Cruze",
+      "ano_compativel": "2016-2019",
+      "posicao": null
+    }
+  },
+  {
+    "texto": "Comando Ar Condicionado Hilux Sw4 2011 A 2015 Analogico",
+    "extracao": {
+      "categoria": "comando de ar",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Hilux",
+      "ano_compativel": "2011-2015",
+      "posicao": null
+    }
+  },
+  {
+    "texto": "Farol Dianteiro Renault Duster 2012 A 2015 Mascara Negra",
+    "extracao": {
+      "categoria": "farol",
+      "marca_veiculo": "Renault",
+      "modelo_veiculo": "Duster",
+      "ano_compativel": "2012-2015",
+      "posicao": "dianteira"
+    }
+  },
+  {
+    "texto": "Mola Traseira Reforçada Gnv Vw Voyage G5 G6 G7 2008 Até 2023",
+    "extracao": {
+      "categoria": "mola",
+      "marca_veiculo": "Volkswagen",
+      "modelo_veiculo": "Voyage",
+      "ano_compativel": "2008-2023",
+      "posicao": "traseira"
+    }
+  }
+]
