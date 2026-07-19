@@ -1,0 +1,18 @@
+{
+  "total_exemplos": 20,
+  "falhas_parse": 0,
+  "exato": {
+    "categoria": 0,
+    "marca_veiculo": 4,
+    "modelo_veiculo": 4,
+    "ano_compativel": 10,
+    "posicao": 2
+  },
+  "tolerante": {
+    "categoria": 11,
+    "marca_veiculo": 4,
+    "modelo_veiculo": 4,
+    "ano_compativel": 11,
+    "posicao": 5
+  }
+}
