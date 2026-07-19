@@ -1,0 +1,1195 @@
+[
+  {
+    "texto": "Lanterna Traseira esquerda Toyota Corolla 2015 A 2018 original",
+    "extracao": {
+      "categoria": "lanterna",
+      "marca_veiculo": "Toyota",
+      "modelo_veiculo": "Corolla",
+      "ano_compativel": "2015-2018",
+      "posicao": "traseira e esquerda"
+    }
+  },
+  {
+    "texto": "Comando de ar digital New fiesta 2014/19 Produto original usado",
+    "extracao": {
+      "categoria": "comando de ar",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Fiesta",
+      "ano_compativel": "2014-2019",
+      "posicao": null
+    }
+  },
+  {
+    "texto": "Comando Ar Central C/ Moldura Ford Ecosport 2017/21 Gn1518c612aj Original",
+    "extracao": {
+      "categoria": "comando de ar",
+      "marca_veiculo": "Ford",
+      "modelo_veiculo": "Ecosport",
+      "ano_compativel": "2017-2021",
+      "posicao": null
+    }
+  },
+  {
+    "texto": "Comando Controle Ar Painel Fiat Doblo 2002 A 2009 Original",
+    "extracao": {
+      "categoria": "comando de ar",
+      "marca_veiculo": "Fiat",
+      "modelo_veiculo": "Doblo",
+      "ano_compativel": "2002-2009",
+      "posicao": null
+    }
+  },
+  {
+    "texto": "Lanterna original traseira Saveiro Cross lado direito",
+    "extracao": {
+      "categoria": "lanterna",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Saveiro",
+      "ano_compativel": null,
+      "posicao": "traseira e direita"
+    }
+  },
+  {
+    "texto": "PASTILHAS DE FREIO DIANTEIRO SPIN 17/24 PEÇAS GENUÍNAS GM 522131193 Compatível com Chevrolet spin (2017 a 2024, diversas versões incluindo LT, LTZ E ACTIV, com freio a disco dianteiro e tambor traseiro com ABS)",
+    "extracao": {
+      "categoria": "pastilha de freio",
+      "marca_veiculo": "Chevrolet",
+      "modelo_veiculo": "Spin",
+      "ano_compativel": "2017-2024",
+      "posicao": "dianteira e traseira"
+    }
+  },
+  {
+    "texto": "Par Farol Fiat Punto 08 2009 2010 11 12 13 Máscara Negra",
+    "extracao": {
+      "categoria": "farol",
+      "marca_veiculo": "Fiat",
+      "modelo_veiculo": "Punto",
+      "ano_compativel": "2008-2013",
+      "posicao": null
+    }
+  },
+  {
+    "texto": "Volante Esportivo Cruze/ Celta Wind Corsa Monza Kadett Omega",
+    "extracao": {
+      "categoria": "volante",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Cruze",
+      "ano_compativel": null,
+      "posicao": null
+    },
+    "_revisar_multiplos_modelos": [
+      "Cruze",
+      "Celta",
+      "Wind",
+      "Corsa",
+      "Monza",
+      "Kadett"
+    ]
+  },
+  {
+    "texto": "Jogo Pastilha Freio Dianteira E Traseira New Civic 2008",
+    "extracao": {
+      "categoria": "pastilha de freio",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Civic",
+      "ano_compativel": "2008",
+      "posicao": "dianteira e traseira"
+    }
+  },
+  {
+    "texto": "Volante Esportivo Chevrolet Celta Corsa Classic Wind Prisma",
+    "extracao": {
+      "categoria": "volante",
+      "marca_veiculo": "Chevrolet",
+      "modelo_veiculo": "Celta",
+      "ano_compativel": null,
+      "posicao": null
+    },
+    "_revisar_multiplos_modelos": [
+      "Celta",
+      "Corsa",
+      "Classic",
+      "Wind",
+      "Prisma"
+    ]
+  },
+  {
+    "texto": "Alavanca Do Freio De Mao Da S10 2010 Até 2021",
+    "extracao": {
+      "categoria": "alavanca de freio",
+      "marca_veiculo": null,
+      "modelo_veiculo": "S10",
+      "ano_compativel": "2010-2021",
+      "posicao": null
+    }
+  },
+  {
+    "texto": "Par Amortecedor Dianteiro + Coxins Duster Captur 2011 A 2020",
+    "extracao": {
+      "categoria": "amortecedor",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Duster",
+      "ano_compativel": "2011-2020",
+      "posicao": "dianteira"
+    },
+    "_revisar_multiplos_modelos": [
+      "Duster",
+      "Captur"
+    ]
+  },
+  {
+    "texto": "Disco Pastilha Freio Dianteira Traseira Corolla 2003 A 2008",
+    "extracao": {
+      "categoria": "pastilha de freio",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Corolla",
+      "ano_compativel": "2003-2008",
+      "posicao": "dianteira e traseira"
+    }
+  },
+  {
+    "texto": "Kit Amortecedor Dianteiro Traseiro Cofap C/kits Gol G2 G3 G4",
+    "extracao": {
+      "categoria": "amortecedor",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Gol",
+      "ano_compativel": null,
+      "posicao": "dianteira e traseira"
+    }
+  },
+  {
+    "texto": "Pastilha De Freio Dianteiro Jeep Renegade E Compass Original",
+    "extracao": {
+      "categoria": "pastilha de freio",
+      "marca_veiculo": "Jeep",
+      "modelo_veiculo": "Renegade",
+      "ano_compativel": null,
+      "posicao": "dianteira"
+    },
+    "_revisar_multiplos_modelos": [
+      "Renegade",
+      "Compass"
+    ]
+  },
+  {
+    "texto": "Par Amortecedor Dianteiro Com Kits Cofap Fox Polo Spacefox",
+    "extracao": {
+      "categoria": "amortecedor",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Fox",
+      "ano_compativel": null,
+      "posicao": "dianteira"
+    },
+    "_revisar_multiplos_modelos": [
+      "Fox",
+      "Polo",
+      "Spacefox"
+    ]
+  },
+  {
+    "texto": "Jogo De Pastilha Nivus, Polo, Virtus, T-cross Diant E Tras",
+    "extracao": {
+      "categoria": "pastilha de freio",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Nivus",
+      "ano_compativel": null,
+      "posicao": "dianteira e traseira"
+    },
+    "_revisar_multiplos_modelos": [
+      "Nivus",
+      "Polo",
+      "Virtus",
+      "T-cross"
+    ]
+  },
+  {
+    "texto": "Kit Completo Buchas Da Suspensao Traseira Gm Captiva",
+    "extracao": {
+      "categoria": "suspensao",
+      "marca_veiculo": "Chevrolet",
+      "modelo_veiculo": "Captiva",
+      "ano_compativel": null,
+      "posicao": "traseira"
+    }
+  },
+  {
+    "texto": "Par Disco E Pastilha Freio Dianteiro Fremax Bosch Civic 2008",
+    "extracao": {
+      "categoria": "pastilha de freio",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Civic",
+      "ano_compativel": "2008",
+      "posicao": "dianteira"
+    }
+  },
+  {
+    "texto": "Alavanca Freio De Mão Palio Strada Siena 100170716",
+    "extracao": {
+      "categoria": "alavanca de freio",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Palio",
+      "ano_compativel": null,
+      "posicao": null
+    },
+    "_revisar_multiplos_modelos": [
+      "Palio",
+      "Strada",
+      "Siena"
+    ]
+  },
+  {
+    "texto": "Par Encolhedor De Molas Suspensão Profissional Rosca 1/2 Pol",
+    "extracao": {
+      "categoria": "suspensao",
+      "marca_veiculo": null,
+      "modelo_veiculo": null,
+      "ano_compativel": null,
+      "posicao": null
+    }
+  },
+  {
+    "texto": "Pastilha Freio Dianteira Hilux Diesel 2009 Até 2024 Original",
+    "extracao": {
+      "categoria": "pastilha de freio",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Hilux",
+      "ano_compativel": "2009-2024",
+      "posicao": "dianteira"
+    }
+  },
+  {
+    "texto": "Amortecedor Dianteiro Cofap + Kit Coxins Palio Strada Siena",
+    "extracao": {
+      "categoria": "amortecedor",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Palio",
+      "ano_compativel": null,
+      "posicao": "dianteira"
+    },
+    "_revisar_multiplos_modelos": [
+      "Palio",
+      "Strada",
+      "Siena"
+    ]
+  },
+  {
+    "texto": "Par Bandeja Suspensão Fiat Palio Siena Strada Doblo 01/16",
+    "extracao": {
+      "categoria": "suspensao",
+      "marca_veiculo": "Fiat",
+      "modelo_veiculo": "Palio",
+      "ano_compativel": "2001-2016",
+      "posicao": null
+    },
+    "_revisar_multiplos_modelos": [
+      "Palio",
+      "Siena",
+      "Strada",
+      "Doblo"
+    ]
+  },
+  {
+    "texto": "Kit Amortecedor Dianteiro Traseiro Cofap Punto Linea C/ Kits",
+    "extracao": {
+      "categoria": "amortecedor",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Punto",
+      "ano_compativel": null,
+      "posicao": "dianteira e traseira"
+    },
+    "_revisar_multiplos_modelos": [
+      "Punto",
+      "Linea"
+    ]
+  },
+  {
+    "texto": "Jogo Pastilha Freio Dianteira Tracker 2021 2022 2023 2024 25",
+    "extracao": {
+      "categoria": "pastilha de freio",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Tracker",
+      "ano_compativel": "2021-2025",
+      "posicao": "dianteira"
+    }
+  },
+  {
+    "texto": "4 Amortecedor Kayaba Hyundai Hb20 2012 A 2019 + Kit Batente",
+    "extracao": {
+      "categoria": "amortecedor",
+      "marca_veiculo": "Hyundai",
+      "modelo_veiculo": "Hb20",
+      "ano_compativel": "2012-2019",
+      "posicao": null
+    }
+  },
+  {
+    "texto": "Amortecedor Dianteiro Traseiro Kyb New Civic 07 A 11 Com Kit",
+    "extracao": {
+      "categoria": "amortecedor",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Civic",
+      "ano_compativel": "2007-2011",
+      "posicao": "dianteira e traseira"
+    }
+  },
+  {
+    "texto": "Volante Vw Gol Bola G2 G3 G4 G5 G6 Fox Golf Polo Esportivo",
+    "extracao": {
+      "categoria": "volante",
+      "marca_veiculo": "Volkswagen",
+      "modelo_veiculo": "Gol",
+      "ano_compativel": null,
+      "posicao": null
+    },
+    "_revisar_multiplos_modelos": [
+      "Gol",
+      "Bola",
+      "Fox",
+      "Golf",
+      "Polo"
+    ]
+  },
+  {
+    "texto": "Kit Pastilha Freio Dianteira Traseira Cerâmica Sw4 2016-2026",
+    "extracao": {
+      "categoria": "pastilha de freio",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Sw4",
+      "ano_compativel": "2016-2026",
+      "posicao": "dianteira e traseira"
+    }
+  },
+  {
+    "texto": "Par Amortecedores Dianteiros Gol Voyage G5 G6 G7 + Kit Coxim",
+    "extracao": {
+      "categoria": "amortecedor",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Gol",
+      "ano_compativel": null,
+      "posicao": "dianteira"
+    },
+    "_revisar_multiplos_modelos": [
+      "Gol",
+      "Voyage"
+    ]
+  },
+  {
+    "texto": "Kit Reforço Traseiro Fiat Doblò (cargo Ou Gnv) 8/9cm + Alta",
+    "extracao": {
+      "categoria": "mola",
+      "marca_veiculo": "Fiat",
+      "modelo_veiculo": "Doblò",
+      "ano_compativel": null,
+      "posicao": "traseira"
+    }
+  },
+  {
+    "texto": "Volante Sport Comando De Som Jfa Pronto Vw Gol G3 Ano 2002",
+    "extracao": {
+      "categoria": "volante",
+      "marca_veiculo": "Volkswagen",
+      "modelo_veiculo": "Gol",
+      "ano_compativel": "2002",
+      "posicao": null
+    }
+  },
+  {
+    "texto": "Pastilha Freio Dianteira Traseira Renegade Compass Commander",
+    "extracao": {
+      "categoria": "pastilha de freio",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Renegade",
+      "ano_compativel": null,
+      "posicao": "dianteira e traseira"
+    },
+    "_revisar_multiplos_modelos": [
+      "Renegade",
+      "Compass",
+      "Commander"
+    ]
+  },
+  {
+    "texto": "4 Amortecedor Original Nakata Gol Voyage G5 G6 G7 + Kit Comp",
+    "extracao": {
+      "categoria": "amortecedor",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Gol",
+      "ano_compativel": null,
+      "posicao": null
+    },
+    "_revisar_multiplos_modelos": [
+      "Gol",
+      "Voyage"
+    ]
+  },
+  {
+    "texto": "2 Amortecedor Kit Supensão Traseira Bmw 320i F30 2013 A 2018",
+    "extracao": {
+      "categoria": "amortecedor",
+      "marca_veiculo": "BMW",
+      "modelo_veiculo": "320i",
+      "ano_compativel": "2013-2018",
+      "posicao": "traseira"
+    }
+  },
+  {
+    "texto": "Kit 4 Pivo Kombi Suspensão Completa C/ Regulagem Cambagem",
+    "extracao": {
+      "categoria": "suspensao",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Kombi",
+      "ano_compativel": null,
+      "posicao": null
+    }
+  },
+  {
+    "texto": "Volante Nova Tracker Gm Logo Preto Corsa Classic 2005",
+    "extracao": {
+      "categoria": "volante",
+      "marca_veiculo": "Chevrolet",
+      "modelo_veiculo": "Tracker",
+      "ano_compativel": "2005",
+      "posicao": null
+    },
+    "_revisar_multiplos_modelos": [
+      "Tracker",
+      "Corsa",
+      "Classic"
+    ]
+  },
+  {
+    "texto": "4 Amortecedor Dianteiro E Traseiro Cofap Astra 98 À 11 + Kit",
+    "extracao": {
+      "categoria": "amortecedor",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Astra",
+      "ano_compativel": "1998-2011",
+      "posicao": "dianteira e traseira"
+    }
+  },
+  {
+    "texto": "Kit Amortecedor Dianteiro Traseiro Corsa Frente Montana Tds",
+    "extracao": {
+      "categoria": "amortecedor",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Corsa",
+      "ano_compativel": null,
+      "posicao": "dianteira e traseira"
+    },
+    "_revisar_multiplos_modelos": [
+      "Corsa",
+      "Montana"
+    ]
+  },
+  {
+    "texto": "Jogo Pastilhas Freio Dianteiro Original Onix Prisma Cobalt",
+    "extracao": {
+      "categoria": "pastilha de freio",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Onix",
+      "ano_compativel": null,
+      "posicao": "dianteira"
+    },
+    "_revisar_multiplos_modelos": [
+      "Onix",
+      "Prisma",
+      "Cobalt"
+    ]
+  },
+  {
+    "texto": "Kit 4 Amortecedor Golf Sportline 2008 2009 2010 Monreo Axios",
+    "extracao": {
+      "categoria": "amortecedor",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Golf",
+      "ano_compativel": "2008-2010",
+      "posicao": null
+    },
+    "_revisar_multiplos_modelos": [
+      "Golf",
+      "Sportline"
+    ]
+  },
+  {
+    "texto": "Par Amortecedor Traseiro E Kits Gol G2 G3 G4 1995 2008 Cofap",
+    "extracao": {
+      "categoria": "amortecedor",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Gol",
+      "ano_compativel": "1995-2008",
+      "posicao": "traseira"
+    }
+  },
+  {
+    "texto": "Kit Pastilhas De Freio Master 2.3 2014 A 2024",
+    "extracao": {
+      "categoria": "pastilha de freio",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Master",
+      "ano_compativel": "2014-2024",
+      "posicao": null
+    }
+  },
+  {
+    "texto": "Volante Palio 1996 97 98 99 2000 A 2013 Sport Grafite + Cubo",
+    "extracao": {
+      "categoria": "volante",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Palio",
+      "ano_compativel": "1996-2013",
+      "posicao": null
+    }
+  },
+  {
+    "texto": "02 Amortecedor Dianteira Nakata + Batente Fiesta 2002 Á 2014",
+    "extracao": {
+      "categoria": "amortecedor",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Fiesta",
+      "ano_compativel": "2002-2014",
+      "posicao": "dianteira"
+    }
+  },
+  {
+    "texto": "Kit Completo Amortecedor Gol G2 G3 G4 Cofap+kits Brinde",
+    "extracao": {
+      "categoria": "amortecedor",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Gol",
+      "ano_compativel": null,
+      "posicao": null
+    }
+  },
+  {
+    "texto": "Kit Suspensão Rosca Slim C/torre Gol G1 G2 G3 G4",
+    "extracao": {
+      "categoria": "suspensao",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Gol",
+      "ano_compativel": null,
+      "posicao": null
+    }
+  },
+  {
+    "texto": "Par Amortecedores Traseiros Palio Siena 96 A 2012 Com Kit",
+    "extracao": {
+      "categoria": "amortecedor",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Palio",
+      "ano_compativel": "1996-2012",
+      "posicao": "traseira"
+    },
+    "_revisar_multiplos_modelos": [
+      "Palio",
+      "Siena"
+    ]
+  },
+  {
+    "texto": "Par Amortecedor Dianteiro C/ Kit Gm Onix Prisma Spin Cobalt",
+    "extracao": {
+      "categoria": "amortecedor",
+      "marca_veiculo": "Chevrolet",
+      "modelo_veiculo": "Onix",
+      "ano_compativel": null,
+      "posicao": "dianteira"
+    },
+    "_revisar_multiplos_modelos": [
+      "Onix",
+      "Prisma",
+      "Spin",
+      "Cobalt"
+    ]
+  },
+  {
+    "texto": "Kit 4 Molas Esportivas Gol G2 G3 G4 Todos 1.0 1.6 1.8",
+    "extracao": {
+      "categoria": "mola",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Gol",
+      "ano_compativel": null,
+      "posicao": null
+    }
+  },
+  {
+    "texto": "Suspensão Rosca Macaulay Slim Gol G2 G3 G4 Premium",
+    "extracao": {
+      "categoria": "suspensao",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Gol",
+      "ano_compativel": null,
+      "posicao": null
+    }
+  },
+  {
+    "texto": "Kit Suspensao Dianteiro + Traseiro Gm Corsa/celta/prisma",
+    "extracao": {
+      "categoria": "suspensao",
+      "marca_veiculo": "Chevrolet",
+      "modelo_veiculo": "Corsa",
+      "ano_compativel": null,
+      "posicao": "dianteira e traseira"
+    },
+    "_revisar_multiplos_modelos": [
+      "Corsa",
+      "Celta",
+      "Prisma"
+    ]
+  },
+  {
+    "texto": "Kit Suspensão Completa Polo Fox Spacefox Polo Sedan",
+    "extracao": {
+      "categoria": "suspensao",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Polo",
+      "ano_compativel": null,
+      "posicao": null
+    },
+    "_revisar_multiplos_modelos": [
+      "Polo",
+      "Fox",
+      "Spacefox"
+    ]
+  },
+  {
+    "texto": "Volante Esportivo Comandos S/ Função Gol G2 G3 G4 G5",
+    "extracao": {
+      "categoria": "volante",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Gol",
+      "ano_compativel": null,
+      "posicao": null
+    }
+  },
+  {
+    "texto": "Pastilha Freio Novo Onix 2020 2021 2022 Lt Ltz Plus Premier",
+    "extracao": {
+      "categoria": "pastilha de freio",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Onix",
+      "ano_compativel": "2020-2022",
+      "posicao": null
+    }
+  },
+  {
+    "texto": "04 Amortecedores Gol G2 G3 G4 Nakata Com Kit Batente E Coifa",
+    "extracao": {
+      "categoria": "amortecedor",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Gol",
+      "ano_compativel": null,
+      "posicao": null
+    }
+  },
+  {
+    "texto": "Par Amortecedor Traseiro Cofap Comp Kit Batente Palio Siena",
+    "extracao": {
+      "categoria": "amortecedor",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Palio",
+      "ano_compativel": null,
+      "posicao": "traseira"
+    },
+    "_revisar_multiplos_modelos": [
+      "Palio",
+      "Siena"
+    ]
+  },
+  {
+    "texto": "Volante Corsa Classic 03 2004 2005 2006 2007 2008 2009 2010",
+    "extracao": {
+      "categoria": "volante",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Corsa",
+      "ano_compativel": "2003-2010",
+      "posicao": null
+    },
+    "_revisar_multiplos_modelos": [
+      "Corsa",
+      "Classic"
+    ]
+  },
+  {
+    "texto": "Par Amortecedor Traseiro Fiat Strada Original Cofap",
+    "extracao": {
+      "categoria": "amortecedor",
+      "marca_veiculo": "Fiat",
+      "modelo_veiculo": "Strada",
+      "ano_compativel": null,
+      "posicao": "traseira"
+    }
+  },
+  {
+    "texto": "Par Amortecedores Traseiro Uno Mille Way Economy 2008 À 2013",
+    "extracao": {
+      "categoria": "amortecedor",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Uno",
+      "ano_compativel": "2008-2013",
+      "posicao": "traseira"
+    }
+  },
+  {
+    "texto": "Par Amortecedor Dianteiro +kit Batentes Coifas Kicks Cofap",
+    "extracao": {
+      "categoria": "amortecedor",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Kicks",
+      "ano_compativel": null,
+      "posicao": "dianteira"
+    }
+  },
+  {
+    "texto": "Kit Amortecedor Dianteiro Traseiro Cofap C/ Kits Palio Siena",
+    "extracao": {
+      "categoria": "amortecedor",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Palio",
+      "ano_compativel": null,
+      "posicao": "dianteira e traseira"
+    },
+    "_revisar_multiplos_modelos": [
+      "Palio",
+      "Siena"
+    ]
+  },
+  {
+    "texto": "Kit Pastilha Freio Dianteiro Bosch Novo Polo Msi 1.6 2019",
+    "extracao": {
+      "categoria": "pastilha de freio",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Polo",
+      "ano_compativel": "2019",
+      "posicao": "dianteira"
+    }
+  },
+  {
+    "texto": "Pastilha Freio Dianteiro Bosch Fiat Toro Compass Renagade",
+    "extracao": {
+      "categoria": "pastilha de freio",
+      "marca_veiculo": "Fiat",
+      "modelo_veiculo": "Toro",
+      "ano_compativel": null,
+      "posicao": "dianteira"
+    },
+    "_revisar_multiplos_modelos": [
+      "Toro",
+      "Compass"
+    ]
+  },
+  {
+    "texto": "Lanterna Traseira L200 Triton 2017 2016 2017 18 19 20 A 2025",
+    "extracao": {
+      "categoria": "lanterna",
+      "marca_veiculo": null,
+      "modelo_veiculo": "L200",
+      "ano_compativel": "2016-2025",
+      "posicao": "traseira"
+    },
+    "_revisar_multiplos_modelos": [
+      "L200",
+      "Triton"
+    ]
+  },
+  {
+    "texto": "Lanterna Traseira L200 Triton 2017 A 2025",
+    "extracao": {
+      "categoria": "lanterna",
+      "marca_veiculo": null,
+      "modelo_veiculo": "L200",
+      "ano_compativel": "2017-2025",
+      "posicao": "traseira"
+    },
+    "_revisar_multiplos_modelos": [
+      "L200",
+      "Triton"
+    ]
+  },
+  {
+    "texto": "Lanterna Traseira Punto 12 13 14 15 16 2017 C/led Tjet Depo",
+    "extracao": {
+      "categoria": "lanterna",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Punto",
+      "ano_compativel": "2012-2017",
+      "posicao": "traseira"
+    }
+  },
+  {
+    "texto": "Lanterna Outlander Depo 2016/2022 C/led Nova",
+    "extracao": {
+      "categoria": "lanterna",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Outlander",
+      "ano_compativel": "2016-2022",
+      "posicao": null
+    }
+  },
+  {
+    "texto": "Par Lanternas Traseira Celta 2000 2001 02 03 04 05 2006",
+    "extracao": {
+      "categoria": "lanterna",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Celta",
+      "ano_compativel": "2000-2006",
+      "posicao": "traseira"
+    }
+  },
+  {
+    "texto": "Kit 6 Lâmpadas Halógena Farol Alto Baixo Lanterna H1 H7 T10",
+    "extracao": {
+      "categoria": "lanterna",
+      "marca_veiculo": null,
+      "modelo_veiculo": null,
+      "ano_compativel": null,
+      "posicao": null
+    }
+  },
+  {
+    "texto": "Lanterna De Teto Gol Bola G2 G3 G4 1995 A 2008 + Led",
+    "extracao": {
+      "categoria": "lanterna",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Gol",
+      "ano_compativel": "1995-2008",
+      "posicao": null
+    },
+    "_revisar_multiplos_modelos": [
+      "Gol",
+      "Bola"
+    ]
+  },
+  {
+    "texto": "Par Lanterna Dianteira Seta Uno Fiorino 91 92 93 94 95 96 97",
+    "extracao": {
+      "categoria": "lanterna",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Uno",
+      "ano_compativel": "1991-1997",
+      "posicao": "dianteira"
+    },
+    "_revisar_multiplos_modelos": [
+      "Uno",
+      "Fiorino"
+    ]
+  },
+  {
+    "texto": "Par Lanterna Traseira Hilux 16 17 2018 2019 2020 21 22 23 24",
+    "extracao": {
+      "categoria": "lanterna",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Hilux",
+      "ano_compativel": "2016-2024",
+      "posicao": "traseira"
+    }
+  },
+  {
+    "texto": "Lanterna Traseira Sandero Stepway 2012 13 2014 Vermelha Depo",
+    "extracao": {
+      "categoria": "lanterna",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Sandero",
+      "ano_compativel": "2012-2014",
+      "posicao": "traseira"
+    },
+    "_revisar_multiplos_modelos": [
+      "Sandero",
+      "Stepway"
+    ]
+  },
+  {
+    "texto": "Comando Do Ar Condicionado Para Fox Crossfox 2004 À 2010",
+    "extracao": {
+      "categoria": "comando de ar",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Fox",
+      "ano_compativel": "2004-2010",
+      "posicao": null
+    },
+    "_revisar_multiplos_modelos": [
+      "Fox",
+      "Crossfox"
+    ]
+  },
+  {
+    "texto": "Controle Ar Condicionado Cruze 2016 - 2019 Gm Original",
+    "extracao": {
+      "categoria": "comando de ar",
+      "marca_veiculo": "Chevrolet",
+      "modelo_veiculo": "Cruze",
+      "ano_compativel": "2016-2019",
+      "posicao": null
+    }
+  },
+  {
+    "texto": "Controle Ar Condicion E Aquecedor Gm 39028878",
+    "extracao": {
+      "categoria": "comando de ar",
+      "marca_veiculo": "Chevrolet",
+      "modelo_veiculo": null,
+      "ano_compativel": null,
+      "posicao": null
+    }
+  },
+  {
+    "texto": "Comando Ar Condicionado Hilux Sw4 2011 A 2015 Analogico",
+    "extracao": {
+      "categoria": "comando de ar",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Hilux",
+      "ano_compativel": "2011-2015",
+      "posicao": null
+    },
+    "_revisar_multiplos_modelos": [
+      "Hilux",
+      "Sw4"
+    ]
+  },
+  {
+    "texto": "Comando Controle Ar Condicionado Vw Gol Parati Saveiro G3 G4",
+    "extracao": {
+      "categoria": "comando de ar",
+      "marca_veiculo": "Volkswagen",
+      "modelo_veiculo": "Gol",
+      "ano_compativel": null,
+      "posicao": null
+    },
+    "_revisar_multiplos_modelos": [
+      "Gol",
+      "Parati",
+      "Saveiro"
+    ]
+  },
+  {
+    "texto": "Painel Comando Ar Condicionado Gol Voyage Saveiro / G5",
+    "extracao": {
+      "categoria": "comando de ar",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Gol",
+      "ano_compativel": null,
+      "posicao": null
+    },
+    "_revisar_multiplos_modelos": [
+      "Gol",
+      "Voyage",
+      "Saveiro"
+    ]
+  },
+  {
+    "texto": "Comutador Comando Ar Condicionado Siena Punto Palio Doblo",
+    "extracao": {
+      "categoria": "comando de ar",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Siena",
+      "ano_compativel": null,
+      "posicao": null
+    },
+    "_revisar_multiplos_modelos": [
+      "Siena",
+      "Punto",
+      "Palio",
+      "Doblo"
+    ]
+  },
+  {
+    "texto": "Comando De Ar Condicionado Analógico Hilux / Sw4 2011 A 2015",
+    "extracao": {
+      "categoria": "comando de ar",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Hilux",
+      "ano_compativel": "2011-2015",
+      "posicao": null
+    },
+    "_revisar_multiplos_modelos": [
+      "Hilux",
+      "Sw4"
+    ]
+  },
+  {
+    "texto": "Painel De Comando Ar Condicionado Para Gol Saveiro Parati G3",
+    "extracao": {
+      "categoria": "comando de ar",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Gol",
+      "ano_compativel": null,
+      "posicao": null
+    },
+    "_revisar_multiplos_modelos": [
+      "Gol",
+      "Saveiro",
+      "Parati"
+    ]
+  },
+  {
+    "texto": "Par Farol Fiesta 2003 2004 2005 2006 2007 Hatch Sedan",
+    "extracao": {
+      "categoria": "farol",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Fiesta",
+      "ano_compativel": "2003-2007",
+      "posicao": null
+    }
+  },
+  {
+    "texto": "Par Farol Principal Volvo Fh Fm 2010 2011 2012 2013 2014 15",
+    "extracao": {
+      "categoria": "farol",
+      "marca_veiculo": "Volvo",
+      "modelo_veiculo": null,
+      "ano_compativel": "2010-2015",
+      "posicao": null
+    }
+  },
+  {
+    "texto": "Par Farol Celta 2007 A 2015 Prisma 2006 A 2012 Cromado",
+    "extracao": {
+      "categoria": "farol",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Celta",
+      "ano_compativel": "2007-2015",
+      "posicao": null
+    },
+    "_revisar_multiplos_modelos": [
+      "Celta",
+      "Prisma"
+    ]
+  },
+  {
+    "texto": "Par Farol Corsa 94 A 2002 Classic 96 A 2009 Mascara Negra",
+    "extracao": {
+      "categoria": "farol",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Corsa",
+      "ano_compativel": "1994-2002",
+      "posicao": null
+    },
+    "_revisar_multiplos_modelos": [
+      "Corsa",
+      "Classic"
+    ]
+  },
+  {
+    "texto": "Farol Etios 2013 2014 2015 2016 2017 2018 Cromado",
+    "extracao": {
+      "categoria": "farol",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Etios",
+      "ano_compativel": "2013-2018",
+      "posicao": null
+    }
+  },
+  {
+    "texto": "Kit Farol Milha Palio Siena Celebration Fire 2008 09 10 11",
+    "extracao": {
+      "categoria": "farol",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Palio",
+      "ano_compativel": "2008-2011",
+      "posicao": null
+    },
+    "_revisar_multiplos_modelos": [
+      "Palio",
+      "Siena"
+    ]
+  },
+  {
+    "texto": "Par Farol Ford Ka 2008 2009 2010 2011 2012 2013 Cromado",
+    "extracao": {
+      "categoria": "farol",
+      "marca_veiculo": "Ford",
+      "modelo_veiculo": "Ka",
+      "ano_compativel": "2008-2013",
+      "posicao": null
+    }
+  },
+  {
+    "texto": "Farol Dianteiro Renault Duster 2012 A 2015 Mascara Negra",
+    "extracao": {
+      "categoria": "farol",
+      "marca_veiculo": "Renault",
+      "modelo_veiculo": "Duster",
+      "ano_compativel": "2012-2015",
+      "posicao": "dianteira"
+    }
+  },
+  {
+    "texto": "Mola Traseira Reforçada Gnv Vw Voyage G5 G6 G7 2008 Até 2023",
+    "extracao": {
+      "categoria": "mola",
+      "marca_veiculo": "Volkswagen",
+      "modelo_veiculo": "Voyage",
+      "ano_compativel": "2008-2023",
+      "posicao": "traseira"
+    }
+  },
+  {
+    "texto": "2 Molas Traseiras Reforçadas Para Blindados Pajero Full",
+    "extracao": {
+      "categoria": "mola",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Pajero",
+      "ano_compativel": null,
+      "posicao": "traseira"
+    }
+  },
+  {
+    "texto": "Molas Reforçadas P/ Blindados Pajero Dakar Traseira (todas)",
+    "extracao": {
+      "categoria": "mola",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Pajero",
+      "ano_compativel": null,
+      "posicao": "traseira"
+    }
+  },
+  {
+    "texto": "Molas Esportivas-mercedes-benz C180/c200/c250 W205(2015/2019",
+    "extracao": {
+      "categoria": "mola",
+      "marca_veiculo": "Mercedes-Benz",
+      "modelo_veiculo": "C180",
+      "ano_compativel": "2015-2019",
+      "posicao": null
+    }
+  },
+  {
+    "texto": "Kit 4 Molas Esportivas Gol G5 G6 G7 G8 Todos 2008 A 2023",
+    "extracao": {
+      "categoria": "mola",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Gol",
+      "ano_compativel": "2008-2023",
+      "posicao": null
+    }
+  },
+  {
+    "texto": "Kit 4 Molas Esportivas Cruze G1 2012 A 2016 Completo",
+    "extracao": {
+      "categoria": "mola",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Cruze",
+      "ano_compativel": "2012-2016",
+      "posicao": null
+    }
+  },
+  {
+    "texto": "Par De Molas Traseiras Reforçadas Gnv Montana 2003 A 2021",
+    "extracao": {
+      "categoria": "mola",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Montana",
+      "ano_compativel": "2003-2021",
+      "posicao": "traseira"
+    }
+  },
+  {
+    "texto": "2 Molas Traseira Reforçadas Gnv Prisma 2017 2018 2019 2020",
+    "extracao": {
+      "categoria": "mola",
+      "marca_veiculo": null,
+      "modelo_veiculo": "Prisma",
+      "ano_compativel": "2017-2020",
+      "posicao": "traseira"
+    }
+  }
+]
