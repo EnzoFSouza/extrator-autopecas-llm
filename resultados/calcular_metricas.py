@@ -3,8 +3,8 @@ import unicodedata
 
 #útil tanto para "resultados_baseline.json" ou "resultados_finetuned.json")
 DIRETORIO = "resultados/"
-ARQUIVO_RESULTADOS = f"{DIRETORIO}resultados_baseline.json"
-ARQUIVO_METRICAS_SAIDA = f"{DIRETORIO}metricas_baseline.json"
+ARQUIVO_RESULTADOS = f"{DIRETORIO}resultados_finetuned.json"
+ARQUIVO_METRICAS_SAIDA = f"{DIRETORIO}metricas_finetuned.json"
 
 CAMPOS = ["categoria", "marca_veiculo", "modelo_veiculo", "ano_compativel", "posicao"]
 
